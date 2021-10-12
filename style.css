@@ -27,12 +27,36 @@
     background-color: #1abc9c;
     margin-bottom: 5px;
 }
-.settings-jumbo{
+/* .settings-jumbo{
     background-color: #0e3a31;
 
-}
+
+} */
 #logo-img{
-    height: 250px;
+    min-height: 250px;
+    display: flex;
+    margin: 10px 0;
+}
+.avatar-img{
+    max-width: 200px;
+
+}
+.line-star{
+    display: flex;
+    margin: 10px 0;
+}
+header section .row h5{
+    margin: 10px 0 40px 0;
+}
+.ms-line{
+    width: 18%;
+    height: 3px;
+    border-radius: 18%;
+    background-color: white;
+    margin: 0 10px;
+}
+.ms-text-settings{
+    color: white;
 }
 
 .settings-main{
