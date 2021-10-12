@@ -86,18 +86,31 @@ header section .row h5{
 
 /* .settings-main{
     background-color: #d16d33;
-    /* min-height: 150px; */
+    min-height: 150px;
     
 
 } */
+.my-container-about{
+    max-width: 576px;
+}
 
 #about{
     width: 100%;
     background-color: #1abc9c;
 }
-.settings-about{
-    background-color: #7dc4e0;
+.h3-text-white{
+    color: white;
+    margin-top:40px;
 
+}
+.p-text{
+    color: white;
+    margin: 0 1.5rem 2rem;
+
+}
+.settings-about-button{
+    /* background-color: #7dc4e0; */
+margin-bottom: 40px;
 
 }
 
